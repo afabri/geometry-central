@@ -236,7 +236,7 @@ This class inherits from all of the geometry interfaces mentioned above, so all 
 
 ??? func "`#!cpp double VertexPositionGeometry::halfedgeCotanWeight(Halfedge he)`"
 
-    Compute the *cotangent weight* of a hafedge.
+    Compute the *cotangent weight* of a halfedge.
 
 ??? func "`#!cpp double VertexPositionGeometry::edgeCotanWeight(Edge e)`"
 
